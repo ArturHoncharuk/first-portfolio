@@ -1,0 +1,31 @@
+.about-me__section  {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-me__content { 
+    display: flex;
+    flex-direction: column;
+}
+
+.about-me__content h3 { 
+    font-size: 32px;
+    font-family: 'Barlow';
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    letter-spacing: 1px;
+}
+
+.about-me__content p {
+    font-family: 'Barlow';
+    font-size: 18px;
+    letter-spacing: 2px;
+    width: 700px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
